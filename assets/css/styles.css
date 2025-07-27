@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #6C5E5B;
+}
+
+.navbar i {
+    color: #EE7D2D;
+}
+
+.titulo {
+    color: #EE7D2D;
+}
+
+.sub1 {
+    color: #EE7D2D;
+}
+
+.btn-outline-custom-orange {
+    border-color: #EE7D2D;
+    color: #EE7D2D;
+    background-color: transparent;
+}
+
+.btn-custom-orange {
+    background-color: #EE7D2D;
+    color: white;
+}
